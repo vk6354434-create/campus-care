@@ -1,0 +1,11 @@
+# ---------------------------------------------------------------
+# Copy this file and rename the copy to:  db.properties
+# Then put YOUR MySQL details below.
+#
+# db.properties is listed in .gitignore, so your password
+# is never uploaded to GitHub.
+# ---------------------------------------------------------------
+
+db.url=jdbc:mysql://localhost:3306/campus_complaint_system
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD
