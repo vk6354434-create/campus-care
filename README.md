@@ -36,6 +36,7 @@ Built with **Java Swing** and **MySQL**.
 
 ## ✨ Features
 - 🎨 Default, Light and Dark themes (button in the top bar)
+
 **For students**
 - Register and log in securely
 - Submit a complaint with a photo
